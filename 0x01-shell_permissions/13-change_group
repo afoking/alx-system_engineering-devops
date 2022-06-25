@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp my_new_directory hello
+chgrp holberton hello
